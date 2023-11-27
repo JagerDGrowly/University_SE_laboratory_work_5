@@ -1,0 +1,17 @@
+UwU -> input: a = -5; b = 10; h = 1; n = 2
+UwU -> results: x = -5 y = 20
+UwU -> results: x = -4 y = 12
+UwU -> results: x = -3 y = 6
+UwU -> results: x = -2 y = 2
+UwU -> results: x = -1 y = -0
+UwU -> results: x = 0 y = 0
+UwU -> results: x = 1 y = inf
+UwU -> results: x = 2 y = inf
+UwU -> results: x = 3 y = inf
+UwU -> results: x = 4 y = inf
+UwU -> results: x = 5 y = inf
+UwU -> results: x = 6 y = inf
+UwU -> results: x = 7 y = inf
+UwU -> results: x = 8 y = inf
+UwU -> results: x = 9 y = inf
+UwU -> results: x = 10 y = inf
